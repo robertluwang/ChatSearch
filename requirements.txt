@@ -1,0 +1,4 @@
+google-generativeai
+duckduckgo-api-haystack
+requests
+re
